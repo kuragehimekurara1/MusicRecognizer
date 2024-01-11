@@ -19,17 +19,17 @@
     <string name="onboarding_token_message_link">ここから</string>
     <string name="onboarding_token_message_end">"試用版トークンをお持ちでない場合は、取得してください。"</string>
     <string name="audd_sign_up_link" translatable="false">https://dashboard.audd.io/</string>
-    <string name="token_skip_message">Skipping this step will limit your daily recognitions, but you can always specify your personal token later in preferences.</string>
-    <string name="hide_token">Hide token</string>
-    <string name="show_token">Show token</string>
-    <string name="apply_api_token">Apply API token</string>
-    <string name="skip">Skip</string>
-    <string name="audd_api_token">AudD API token</string>
-    <string name="api_token">API token</string>
-    <string name="validating">Validating</string>
-    <string name="final_onboarding_page_title">We are ready to go</string>
-    <string name="final_onboarding_page_message">Setup completed successfully</string>
-    <string name="get_started">Get started</string>
+    <string name="token_skip_message">この手順をスキップすると、毎日の認識が制限されますが、後で環境設定で個人トークンを指定できます。</string>
+    <string name="hide_token">トークンを隠す</string>
+    <string name="show_token">トークンを表示</string>
+    <string name="apply_api_token">APIトークンを適用</string>
+    <string name="skip">スキップ</string>
+    <string name="audd_api_token">AudD APIトークン</string>
+    <string name="api_token">APIトークン</string>
+    <string name="validating">検証中</string>
+    <string name="final_onboarding_page_title">準備完了です</string>
+    <string name="final_onboarding_page_message">セットアップが完了しました</string>
+    <string name="get_started">始めましょう</string>
 
     <string name="audd" translatable="false">AudD</string>
     <string name="odesli" translatable="false">Odesli</string>
